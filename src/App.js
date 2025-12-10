@@ -7,8 +7,10 @@ import Registration from './components/Registration';
 import './App.css';
 
 function App() {
+  const basename = process.env.PUBLIC_URL || '';
+  
   return (
-    <Router>
+    <Router basename={basename}>
       <div className="App">
         <Routes>
           <Route path="/" element={<Home />} />

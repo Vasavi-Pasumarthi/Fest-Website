@@ -17,7 +17,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://YOUR_USERNAME.github.io/aura25-fest-website",
+  "homepage": "https://Vasavi-Pasumarthi.github.io/Fest-Website",
+  "publicUrl": "/Fest-Website",
   "eslintConfig": {
     "extends": [
       "react-app"
