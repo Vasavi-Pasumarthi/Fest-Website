@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Fest-Website/static/css/main.2d499fbb.css",
-    "main.js": "/Fest-Website/static/js/main.c550d7b1.js",
+    "main.js": "/Fest-Website/static/js/main.ad1a0e33.js",
     "index.html": "/Fest-Website/index.html",
     "main.2d499fbb.css.map": "/Fest-Website/static/css/main.2d499fbb.css.map",
-    "main.c550d7b1.js.map": "/Fest-Website/static/js/main.c550d7b1.js.map"
+    "main.ad1a0e33.js.map": "/Fest-Website/static/js/main.ad1a0e33.js.map"
   },
   "entrypoints": [
     "static/css/main.2d499fbb.css",
-    "static/js/main.c550d7b1.js"
+    "static/js/main.ad1a0e33.js"
   ]
 }
